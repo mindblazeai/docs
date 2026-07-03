@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "steps": {
+    "step-01.jpg": {
+      "zoom": {
+        "x": 0.13292895074113817,
+        "y": 0.5092478421701603
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0,
+        "y": 0.4808877928483354,
+        "width": 0.26585790148227634,
+        "height": 0.05672009864364982
+      },
+      "pixelRatio": 1.25
+    },
+    "step-02.jpg": {
+      "zoom": {
+        "x": 0.4511536080874438,
+        "y": 0.4944512876423602
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.41286829480678616,
+        "y": 0.4801479579488093,
+        "width": 0.07657062656131526,
+        "height": 0.02860665938710167
+      },
+      "pixelRatio": 1.25
+    },
+    "step-03.jpg": {
+      "zoom": {
+        "x": 0.08197032392954702,
+        "y": 0.7051788064319314
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.06481802690793571,
+        "y": 0.6938347869383863,
+        "width": 0.03430459404322262,
+        "height": 0.02268803898709035
+      },
+      "pixelRatio": 1.25
+    }
+  },
+  "replay": [
+    {
+      "index": 1,
+      "action": "click",
+      "url": "https://react.dev/community/meetups",
+      "description": "Click the **Translations** link to view translation resources.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": "[title='Translations']",
+        "textContent": "Translations",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://react.dev/community/translations",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 0,
+          "y": 390,
+          "width": 306.8000183105469,
+          "height": 46
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": "Translations",
+            "attrs": {
+              "title": "Translations"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "li",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 5
+          },
+          {
+            "tag": "ul",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": "region",
+            "name": null,
+            "attrs": {
+              "role": "region"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "li",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "ul",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": "navigation",
+            "name": null,
+            "attrs": {
+              "role": "navigation"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "aside",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/contribute-a-translation-to-react/step-01.jpg",
+      "highlight": {
+        "x": 0,
+        "y": 0.4808877928483354,
+        "width": 0.26585790148227634,
+        "height": 0.05672009864364982
+      }
+    },
+    {
+      "index": 2,
+      "action": "click",
+      "url": "https://react.dev/community/translations",
+      "description": "Click the **Contribute** link to submit a translation.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": "[href='https\\:\\/\\/github\\.com\\/reactjs\\/react\\.dev\\/']",
+        "textContent": "Contribute",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://github.com/reactjs/react.dev/",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 476.45001220703125,
+          "y": 389.3999938964844,
+          "width": 88.36250305175781,
+          "height": 23.200000762939453
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "li",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "ul",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "article",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/contribute-a-translation-to-react/step-02.jpg",
+      "highlight": {
+        "x": 0.41286829480678616,
+        "y": 0.4801479579488093,
+        "width": 0.07657062656131526,
+        "height": 0.02860665938710167
+      }
+    },
+    {
+      "index": 3,
+      "action": "click",
+      "url": "https://github.com/reactjs/react.dev/",
+      "description": "Click the **scripts** directory link.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": "#folder-row-6 .react-directory-row-name-cell-large-screen .Link--primary",
+        "textContent": "scripts",
+        "ariaLabel": "scripts, (Directory)",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://github.com/reactjs/react.dev/tree/main/scripts",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 74.80000305175781,
+          "y": 562.7000122070312,
+          "width": 39.587501525878906,
+          "height": 18.399999618530273
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": "scripts, (Directory)",
+            "attrs": {
+              "title": "scripts",
+              "aria-label": "scripts, (Directory)"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "td",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "tr",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 7
+          },
+          {
+            "tag": "tbody",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "table",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/contribute-a-translation-to-react/step-03.jpg",
+      "highlight": {
+        "x": 0.06481802690793571,
+        "y": 0.6938347869383863,
+        "width": 0.03430459404322262,
+        "height": 0.02268803898709035
+      }
+    }
+  ],
+  "recording": {
+    "file": "recording.webm",
+    "durationMs": 11979,
+    "width": 1366,
+    "height": 960,
+    "mime": "video/webm;codecs=vp9"
+  }
+}
