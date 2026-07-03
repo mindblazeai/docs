@@ -1,0 +1,779 @@
+{
+  "version": 1,
+  "steps": {
+    "step-01.jpg": {
+      "zoom": {
+        "x": 0.15900900900900902,
+        "y": 0.31235154394299286
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0,
+        "y": 0.29334916864608074,
+        "width": 0.31801801801801804,
+        "height": 0.03800475059382423
+      },
+      "pixelRatio": 2
+    },
+    "step-02.jpg": {
+      "zoom": {
+        "x": 0.5056552646396396,
+        "y": 0.6410332541567696
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.3837837837837838,
+        "y": 0.6146080760095012,
+        "width": 0.24374296171171173,
+        "height": 0.05285035629453682
+      },
+      "pixelRatio": 2
+    },
+    "step-03.jpg": {
+      "zoom": {
+        "x": 0.9441441441441442,
+        "y": 0.5795724465558195
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.9333333333333333,
+        "y": 0.5653206650831354,
+        "width": 0.021621621621621623,
+        "height": 0.028503562945368172
+      },
+      "pixelRatio": 2
+    },
+    "step-04.jpg": {
+      "zoom": {
+        "x": 0.6594594594594595,
+        "y": 0.3839073634204275
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.31891891891891894,
+        "y": 0,
+        "width": 0.6810810810810811,
+        "height": 1
+      },
+      "pixelRatio": 2
+    },
+    "step-05.jpg": {
+      "zoom": {
+        "x": 0.15900900900900902,
+        "y": 0.47387173396674587
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0,
+        "y": 0.45486935866983375,
+        "width": 0.31801801801801804,
+        "height": 0.03800475059382423
+      },
+      "pixelRatio": 2
+    }
+  },
+  "replay": [
+    {
+      "index": 1,
+      "action": "click",
+      "url": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/kit-of-parts",
+      "description": "Click the **Salesforce Diagrams** link.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": ".tile",
+        "textContent": "Salesforce Diagrams",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/introduction.html",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 0,
+          "y": 247,
+          "width": 353,
+          "height": 32
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1110,
+          "height": 842
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-tree-tile",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-tree-item",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-tree",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-sidebar-old",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "doc-content-layout",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": "main",
+            "name": null,
+            "attrs": {
+              "role": "main"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/view-system-landscape-in-salesforce-diagrams/step-01.jpg",
+      "highlight": {
+        "x": 0,
+        "y": 0.29334916864608074,
+        "width": 0.31801801801801804,
+        "height": 0.03800475059382423
+      }
+    },
+    {
+      "index": 2,
+      "action": "click",
+      "url": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/introduction.html",
+      "description": "Click the **Salesforce Diagrams Standard Components** link.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": ":root > :nth-child(2) > :nth-child(2) > :nth-child(39) > :nth-child(1) > :nth-child(1) > :nth-child(1) > :nth-child(5) > :nth-child(3) > :nth-child(1)",
+        "textContent": "Salesforce Diagrams Standard Components",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/kit-of-parts",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 426,
+          "y": 517.5,
+          "width": 270.5546875,
+          "height": 44.5
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1110,
+          "height": 842
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "li",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "ul",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "doc-content-layout",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": "main",
+            "name": null,
+            "attrs": {
+              "role": "main"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/view-system-landscape-in-salesforce-diagrams/step-02.jpg",
+      "highlight": {
+        "x": 0.3837837837837838,
+        "y": 0.6146080760095012,
+        "width": 0.24374296171171173,
+        "height": 0.05285035629453682
+      }
+    },
+    {
+      "index": 3,
+      "action": "click",
+      "url": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/kit-of-parts",
+      "description": "Click the **Minimize Agentforce** button to collapse the message area.",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": ".wes\\:bg-gray-10\\/60",
+        "textContent": null,
+        "ariaLabel": "Minimize Agentforce",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": "minimize-button",
+        "rect": {
+          "x": 1036,
+          "y": 476,
+          "width": 24,
+          "height": 24
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1110,
+          "height": 842
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": "Minimize Agentforce",
+            "attrs": {
+              "aria-label": "Minimize Agentforce",
+              "data-testid": "minimize-button"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "form",
+            "role": "region",
+            "name": "Message Area",
+            "attrs": {
+              "aria-label": "Message Area",
+              "data-testid": "user-input",
+              "role": "region"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {
+              "data-testid": "agent-root"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "page-builder-miaw-ui",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-agent-miaw-ui",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": "main",
+            "name": null,
+            "attrs": {
+              "role": "main"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/view-system-landscape-in-salesforce-diagrams/step-03.jpg",
+      "highlight": {
+        "x": 0.9333333333333333,
+        "y": 0.5653206650831354,
+        "width": 0.021621621621621623,
+        "height": 0.028503562945368172
+      }
+    },
+    {
+      "index": 4,
+      "action": "click",
+      "url": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/kit-of-parts",
+      "description": "Click the **5 minute read** indicator.",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": ".content-body-container",
+        "textContent": "5 minute read",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "div",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 354,
+          "y": -2817,
+          "width": 756,
+          "height": 6280.5
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1110,
+          "height": 842
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "doc-content-layout",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": "main",
+            "name": null,
+            "attrs": {
+              "role": "main"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/view-system-landscape-in-salesforce-diagrams/step-04.jpg",
+      "highlight": {
+        "x": 0.31891891891891894,
+        "y": 0,
+        "width": 0.6810810810810811,
+        "height": 1
+      }
+    },
+    {
+      "index": 5,
+      "action": "click",
+      "url": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/kit-of-parts",
+      "description": "Click the **System Landscape** link.",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": ".tile",
+        "textContent": "System Landscape",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://architect.salesforce.com/docs/architect/reference-diagrams/guide/section-system-landscape.html",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 0,
+          "y": 383,
+          "width": 353,
+          "height": 32
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1110,
+          "height": 842
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-tree-tile",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-tree-item",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-tree",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 6
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "dx-sidebar-old",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "doc-content-layout",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": true,
+            "nthOfType": 0
+          },
+          {
+            "tag": "main",
+            "role": "main",
+            "name": null,
+            "attrs": {
+              "role": "main"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/view-system-landscape-in-salesforce-diagrams/step-05.jpg",
+      "highlight": {
+        "x": 0,
+        "y": 0.45486935866983375,
+        "width": 0.31801801801801804,
+        "height": 0.03800475059382423
+      }
+    }
+  ]
+}
