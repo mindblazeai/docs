@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "steps": {
+    "step-01.jpg": {
+      "zoom": {
+        "x": 0.5583243394848378,
+        "y": 0.039457461101941205
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.5314923952522476,
+        "y": 0.014858199988575663,
+        "width": 0.053663888465180554,
+        "height": 0.04919852222673108
+      },
+      "pixelRatio": 1.25
+    },
+    "step-02.jpg": {
+      "zoom": {
+        "x": 0.4005307638872434,
+        "y": 0.2160141823765088
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.36395147313691506,
+        "y": 0.202943898305646,
+        "width": 0.07315858150065668,
+        "height": 0.02614056814172559
+      },
+      "pixelRatio": 1.25
+    },
+    "step-03.jpg": {
+      "zoom": {
+        "x": 0.4005307638872434,
+        "y": 0.2160141823765088
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.36395147313691506,
+        "y": 0.202943898305646,
+        "width": 0.07315858150065668,
+        "height": 0.02614056814172559
+      },
+      "pixelRatio": 1.25
+    }
+  },
+  "replay": [
+    {
+      "index": 1,
+      "action": "click",
+      "url": "https://react.dev/",
+      "description": "Click \"Learn\"",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": ".active\\:scale-95[href='\\/learn']",
+        "textContent": "Learn",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://react.dev/learn",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 613.3422241210938,
+          "y": 12.050000190734863,
+          "width": 61.92812728881836,
+          "height": 39.900001525878906
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-learn-react/step-01.jpg",
+      "highlight": {
+        "x": 0.5314923952522476,
+        "y": 0.014858199988575663,
+        "width": 0.053663888465180554,
+        "height": 0.04919852222673108
+      }
+    },
+    {
+      "index": 2,
+      "action": "click",
+      "url": "https://react.dev/learn",
+      "description": "Click the **I'm a button** button.",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": "button",
+        "textContent": "I'm a button",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 420,
+          "y": 164.5875015258789,
+          "width": 84.42500305175781,
+          "height": 21.200000762939453
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-learn-react/step-02.jpg",
+      "highlight": {
+        "x": 0.36395147313691506,
+        "y": 0.202943898305646,
+        "width": 0.07315858150065668,
+        "height": 0.02614056814172559
+      }
+    },
+    {
+      "index": 3,
+      "action": "click",
+      "url": "https://react.dev/learn",
+      "description": "Click \"I'm a button\"",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": "button",
+        "textContent": "I'm a button",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 420,
+          "y": 164.5875015258789,
+          "width": 84.42500305175781,
+          "height": 21.200000762939453
+        },
+        "devicePixelRatio": 1.25,
+        "viewport": {
+          "width": 1154,
+          "height": 811
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-learn-react/step-03.jpg",
+      "highlight": {
+        "x": 0.36395147313691506,
+        "y": 0.202943898305646,
+        "width": 0.07315858150065668,
+        "height": 0.02614056814172559
+      }
+    }
+  ],
+  "recording": {
+    "file": "recording.webm",
+    "durationMs": 8509,
+    "width": 1366,
+    "height": 960,
+    "mime": "video/webm;codecs=vp9"
+  }
+}
