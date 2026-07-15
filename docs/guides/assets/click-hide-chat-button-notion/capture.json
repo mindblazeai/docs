@@ -1,0 +1,994 @@
+{
+  "version": 1,
+  "steps": {
+    "step-01.jpg": {
+      "zoom": {
+        "x": 0.9713646816193924,
+        "y": 0.033950618755670244
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.9557047252953719,
+        "y": 0.012345679012345678,
+        "width": 0.03131991264804097,
+        "height": 0.04320987948664912
+      },
+      "pixelRatio": 1.875
+    },
+    "step-02.jpg": {
+      "zoom": {
+        "x": 0.2706935293722473,
+        "y": 0.10493827749181676
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.2527964376496522,
+        "y": 0.08024691946712541,
+        "width": 0.035794183445190156,
+        "height": 0.04938271604938271
+      },
+      "pixelRatio": 1.875
+    },
+    "step-03.jpg": {
+      "zoom": {
+        "x": 0.5002237273009298,
+        "y": 0.500000047095028
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      },
+      "pixelRatio": 1.875
+    },
+    "step-04.jpg": {
+      "zoom": {
+        "x": 0.15100671994339432,
+        "y": 0.9444445415779397
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.017897091722595078,
+        "y": 0.9135803411036362,
+        "width": 0.2662192564415985,
+        "height": 0.06172840094860689
+      },
+      "pixelRatio": 1.875
+    },
+    "step-05.jpg": {
+      "zoom": {
+        "x": 0.15100671994339432,
+        "y": 0.7175926396876205
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.017897091722595078,
+        "y": 0.6929012816629292,
+        "width": 0.2662192564415985,
+        "height": 0.04938271604938271
+      },
+      "pixelRatio": 1.875
+    },
+    "step-06.jpg": {
+      "zoom": {
+        "x": 0.8387957152637593,
+        "y": 0.033950618755670244
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.7934750550545302,
+        "y": 0.012345679012345678,
+        "width": 0.09064132041845813,
+        "height": 0.04320987948664912
+      },
+      "pixelRatio": 1.875
+    },
+    "step-07.jpg": {
+      "zoom": {
+        "x": 0.5002237273009298,
+        "y": 0.500000047095028
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      },
+      "pixelRatio": 1.875
+    }
+  },
+  "replay": [
+    {
+      "index": 1,
+      "action": "click",
+      "url": "https://chromewebstore.google.com/detail/livingcontext-capture-wor/dhkbofnopmnoigplckhfgcpbemfgplek?hl=en-US&utm_source=ext_sidebar",
+      "description": "Click \"Hide chat\"",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": "[data-testid='agent-chat-view-minimize-button']",
+        "textContent": null,
+        "ariaLabel": "Hide chat",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": "agent-chat-view-minimize-button",
+        "rect": {
+          "x": 854.4000244140625,
+          "y": 8,
+          "width": 28.000001907348633,
+          "height": 28.000001907348633
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": "button",
+            "name": "Hide chat",
+            "attrs": {
+              "aria-label": "Hide chat",
+              "data-testid": "agent-chat-view-minimize-button",
+              "role": "button"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-hide-chat-button-notion/step-01.jpg",
+      "highlight": {
+        "x": 0.9557047252953719,
+        "y": 0.012345679012345678,
+        "width": 0.03131991264804097,
+        "height": 0.04320987948664912
+      }
+    },
+    {
+      "index": 2,
+      "action": "click",
+      "url": "https://app.notion.com/p/Button-827106b44df444bfaba32464d2ba5c98",
+      "description": "Click the **Search** button.",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": "[aria-label='Search']",
+        "textContent": null,
+        "ariaLabel": "Search",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 226.00001525878906,
+          "y": 52.000003814697266,
+          "width": 32,
+          "height": 32
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": "button",
+            "name": "Search",
+            "attrs": {
+              "aria-label": "Search",
+              "role": "button"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": null,
+            "name": "Sidebar",
+            "attrs": {
+              "aria-label": "Sidebar"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-hide-chat-button-notion/step-02.jpg",
+      "highlight": {
+        "x": 0.2527964376496522,
+        "y": 0.08024691946712541,
+        "width": 0.035794183445190156,
+        "height": 0.04938271604938271
+      }
+    },
+    {
+      "index": 3,
+      "action": "click",
+      "url": "https://app.notion.com/p/Button-827106b44df444bfaba32464d2ba5c98",
+      "description": "Click \"Preview\"",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": ".notion-modal-underlay",
+        "textContent": null,
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "presentation",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 894.4000244140625,
+          "height": 648.0000610351562
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": "presentation",
+            "name": null,
+            "attrs": {
+              "role": "presentation"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-hide-chat-button-notion/step-03.jpg",
+      "highlight": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      }
+    },
+    {
+      "index": 4,
+      "action": "click",
+      "url": "https://app.notion.com/p/Button-827106b44df444bfaba32464d2ba5c98",
+      "description": "Click \"New…\"",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": ".x10w6t97",
+        "textContent": "New",
+        "ariaLabel": "New…",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 16,
+          "y": 592.0000610351562,
+          "width": 238.00001525878906,
+          "height": 40.000003814697266
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": "button",
+            "name": "New…",
+            "attrs": {
+              "aria-label": "New…",
+              "role": "button"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 3
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": null,
+            "name": "Sidebar",
+            "attrs": {
+              "aria-label": "Sidebar"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-hide-chat-button-notion/step-04.jpg",
+      "highlight": {
+        "x": 0.017897091722595078,
+        "y": 0.9135803411036362,
+        "width": 0.2662192564415985,
+        "height": 0.06172840094860689
+      }
+    },
+    {
+      "index": 5,
+      "action": "click",
+      "url": "https://app.notion.com/p/39e8d0ed90f480aaac54d2a2522699bf?showMoveTo=true&saveParent=true",
+      "description": "Click \"Page\"",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": "#\\:r99\\:",
+        "textContent": "Page",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "menuitem",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 16,
+          "y": 449.0000305175781,
+          "width": 238.00001525878906,
+          "height": 32
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": "menuitem",
+            "name": null,
+            "attrs": {
+              "role": "menuitem"
+            },
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": "menu",
+            "name": null,
+            "attrs": {
+              "role": "menu"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": "dialog",
+            "name": null,
+            "attrs": {
+              "role": "dialog"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-hide-chat-button-notion/step-05.jpg",
+      "highlight": {
+        "x": 0.017897091722595078,
+        "y": 0.6929012816629292,
+        "width": 0.2662192564415985,
+        "height": 0.04938271604938271
+      }
+    },
+    {
+      "index": 6,
+      "action": "click",
+      "url": "https://app.notion.com/p/39e8d0ed90f480aaac54d2a2522699bf?showMoveTo=true&saveParent=true",
+      "description": "Click the **Share** button.",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": ".xt2wqj3",
+        "textContent": "Share",
+        "ariaLabel": "Share",
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 709.36669921875,
+          "y": 8,
+          "width": 81.03334045410156,
+          "height": 28.000001907348633
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": "button",
+            "name": "Share",
+            "attrs": {
+              "aria-label": "Share",
+              "role": "button"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "header",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-hide-chat-button-notion/step-06.jpg",
+      "highlight": {
+        "x": 0.7934750550545302,
+        "y": 0.012345679012345678,
+        "width": 0.09064132041845813,
+        "height": 0.04320987948664912
+      }
+    },
+    {
+      "index": 7,
+      "action": "click",
+      "url": "https://app.notion.com/p/39e8d0ed90f480aaac54d2a2522699bf?showMoveTo=true&saveParent=true",
+      "description": "Click \"div\"",
+      "elementMeta": {
+        "tag": "div",
+        "cssSelector": ":root > ",
+        "textContent": null,
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "div",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 894.4000244140625,
+          "height": 648.0000610351562
+        },
+        "devicePixelRatio": 1.875,
+        "viewport": {
+          "width": 894,
+          "height": 648
+        },
+        "composedPath": [
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-hide-chat-button-notion/step-07.jpg",
+      "highlight": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 1
+      }
+    }
+  ],
+  "recording": {
+    "file": "recording.webm",
+    "durationMs": 21111,
+    "width": 1340,
+    "height": 1056,
+    "mime": "video/webm;codecs=vp9"
+  }
+}
