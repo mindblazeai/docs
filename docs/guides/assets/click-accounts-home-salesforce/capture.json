@@ -1,0 +1,713 @@
+{
+  "version": 1,
+  "steps": {
+    "step-01.jpg": {
+      "zoom": {
+        "x": 0.3429483831885027,
+        "y": 0.08394607843137254
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.31601980280748665,
+        "y": 0.061274509803921566,
+        "width": 0.053857160762032084,
+        "height": 0.04534313725490196
+      },
+      "pixelRatio": 2
+    },
+    "step-02.jpg": {
+      "zoom": {
+        "x": 0.8900688293783422,
+        "y": 0.15073528944277295
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.8705866196576286,
+        "y": 0.13165869432337143,
+        "width": 0.03896441944142714,
+        "height": 0.03815319023880304
+      },
+      "pixelRatio": 2
+    },
+    "step-03.jpg": {
+      "zoom": {
+        "x": 0.36831550802139035,
+        "y": 0.36090686274509803
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.24732620320855614,
+        "y": 0.34129901960784315,
+        "width": 0.24197860962566844,
+        "height": 0.0392156862745098
+      },
+      "pixelRatio": 2
+    },
+    "step-04.jpg": {
+      "zoom": {
+        "x": 0.5634896181483957,
+        "y": 0.8676470588235294
+      },
+      "level": 2,
+      "highlight": {
+        "x": 0.5429991859803225,
+        "y": 0.8486014721440334,
+        "width": 0.04098086433614639,
+        "height": 0.038091173358992036
+      },
+      "pixelRatio": 2
+    }
+  },
+  "replay": [
+    {
+      "index": 1,
+      "action": "click",
+      "url": "https://mindblaze.lightning.force.com/lightning/page/home",
+      "description": "Click \"Accounts\"",
+      "elementMeta": {
+        "tag": "a",
+        "cssSelector": "[href='\\/lightning\\/o\\/Account\\/home']",
+        "textContent": "Accounts",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": null,
+        "role": "a",
+        "href": "https://mindblaze.lightning.force.com/lightning/o/Account/home",
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 472.765625,
+          "y": 50,
+          "width": 80.5703125,
+          "height": 37
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1496,
+          "height": 816
+        },
+        "composedPath": [
+          {
+            "tag": "a",
+            "role": null,
+            "name": "Accounts",
+            "attrs": {
+              "title": "Accounts"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "one-app-nav-bar-item-root",
+            "role": "listitem",
+            "name": null,
+            "attrs": {
+              "data-target-selection-name": "sfdc:TabDefinition.standard-Account",
+              "role": "listitem"
+            },
+            "isShadowHost": false,
+            "nthOfType": 4
+          },
+          {
+            "tag": "div",
+            "role": "list",
+            "name": null,
+            "attrs": {
+              "role": "list"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "nav",
+            "role": "navigation",
+            "name": "Global",
+            "attrs": {
+              "aria-label": "Global",
+              "role": "navigation"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "one-app-nav-bar",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {
+              "data-target-selection-name": "e8a9ff40ce5544f6aaa1c98c67352401"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "one-appnav",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {
+              "data-aura-class": "oneAppNavContainer"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {
+              "data-aura-class": "navexStandardManager"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "section",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {
+              "data-aura-class": "navexDesktopLayoutContainer lafAppLayoutHost forceAccess forceStyle oneOne"
+            },
+            "isShadowHost": false,
+            "nthOfType": 4
+          },
+          {
+            "tag": "body",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "html",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-accounts-home-salesforce/step-01.jpg",
+      "highlight": {
+        "x": 0.31601980280748665,
+        "y": 0.061274509803921566,
+        "width": 0.053857160762032084,
+        "height": 0.04534313725490196
+      }
+    },
+    {
+      "index": 2,
+      "action": "click",
+      "url": "https://mindblaze.lightning.force.com/lightning/o/Account/pipelineInspection?filterName=00BP800000VT5X7MAL",
+      "description": "Click the **New** button.",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": ".slds-kx-is-animating-from-click",
+        "textContent": "New",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": "New",
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 1302.3975830078125,
+          "y": 107.4334945678711,
+          "width": 58.290771484375,
+          "height": 31.13300323486328
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1496,
+          "height": 816
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": "New",
+            "attrs": {
+              "name": "New"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "lightning-button",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "slot",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "lightning-button-group",
+            "role": "group",
+            "name": null,
+            "attrs": {
+              "role": "group"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "runtime_pipeline_inspector-actions-button-group",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": "group",
+            "name": null,
+            "attrs": {
+              "data-aura-class": "runtime_pipeline_inspectorActionsBar",
+              "role": "group"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-accounts-home-salesforce/step-02.jpg",
+      "highlight": {
+        "x": 0.8705866196576286,
+        "y": 0.13165869432337143,
+        "width": 0.03896441944142714,
+        "height": 0.03815319023880304
+      }
+    },
+    {
+      "index": 3,
+      "action": "input",
+      "url": "https://mindblaze.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=178410838819142492&backgroundContext=%2Flightning%2Fo%2FAccount%2FpipelineInspection%3FfilterName%3D00BP800000VT5X7MAL",
+      "inputValue": "Living Context",
+      "description": "Enter a value into \"*Account Name\"",
+      "elementMeta": {
+        "tag": "input",
+        "cssSelector": "#input-228",
+        "textContent": null,
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": "Name",
+        "role": "input",
+        "href": null,
+        "inputType": "text",
+        "dataTestId": null,
+        "rect": {
+          "x": 370,
+          "y": 278.5,
+          "width": 362,
+          "height": 32
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1496,
+          "height": 816
+        },
+        "composedPath": [
+          {
+            "tag": "input",
+            "role": null,
+            "name": "Name",
+            "attrs": {
+              "name": "Name"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "lightning-primitive-input-simple",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "lightning-input",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "records-record-layout-base-input",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "slot",
+            "role": null,
+            "name": "inputField",
+            "attrs": {
+              "name": "inputField"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "span",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": "listitem",
+            "name": null,
+            "attrs": {
+              "data-target-selection-name": "sfdc:RecordField.Account.Name",
+              "role": "listitem"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "records-record-layout-item",
+            "role": null,
+            "name": null,
+            "attrs": {
+              "field-label": "Account Name"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "slot",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "records-record-layout-row",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 1
+          },
+          {
+            "tag": "slot",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": "list",
+            "name": null,
+            "attrs": {
+              "role": "list"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-accounts-home-salesforce/step-03.jpg",
+      "highlight": {
+        "x": 0.24732620320855614,
+        "y": 0.34129901960784315,
+        "width": 0.24197860962566844,
+        "height": 0.0392156862745098
+      }
+    },
+    {
+      "index": 4,
+      "action": "click",
+      "url": "https://mindblaze.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=178410838819142492&backgroundContext=%2Flightning%2Fo%2FAccount%2FpipelineInspection%3FfilterName%3D00BP800000VT5X7MAL",
+      "description": "Click \"Save\"",
+      "elementMeta": {
+        "tag": "button",
+        "cssSelector": ".slds-button_brand",
+        "textContent": "Save",
+        "ariaLabel": null,
+        "placeholder": null,
+        "altText": null,
+        "name": "SaveEdit",
+        "role": "button",
+        "href": null,
+        "inputType": null,
+        "dataTestId": null,
+        "rect": {
+          "x": 812.3267822265625,
+          "y": 692.4588012695312,
+          "width": 61.307373046875,
+          "height": 31.0823974609375
+        },
+        "devicePixelRatio": 2,
+        "viewport": {
+          "width": 1496,
+          "height": 816
+        },
+        "composedPath": [
+          {
+            "tag": "button",
+            "role": null,
+            "name": "SaveEdit",
+            "attrs": {
+              "name": "SaveEdit"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "lightning-button",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "slot",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "slot",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "runtime_platform_actions-executor-lwc-headless",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "runtime_platform_actions-action-renderer",
+            "role": null,
+            "name": "Save",
+            "attrs": {
+              "title": "Save"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "li",
+            "role": "presentation",
+            "name": null,
+            "attrs": {
+              "data-target-selection-name": "sfdc:StandardButton.Account.SaveEdit",
+              "role": "presentation"
+            },
+            "isShadowHost": false,
+            "nthOfType": 2
+          },
+          {
+            "tag": "ul",
+            "role": "presentation",
+            "name": null,
+            "attrs": {
+              "role": "presentation"
+            },
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "runtime_platform_actions-actions-ribbon",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "records-form-footer",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          },
+          {
+            "tag": "div",
+            "role": null,
+            "name": null,
+            "attrs": {},
+            "isShadowHost": false,
+            "nthOfType": 0
+          }
+        ]
+      },
+      "screenshot": "docs/guides/assets/click-accounts-home-salesforce/step-04.jpg",
+      "highlight": {
+        "x": 0.5429991859803225,
+        "y": 0.8486014721440334,
+        "width": 0.04098086433614639,
+        "height": 0.038091173358992036
+      }
+    }
+  ]
+}
