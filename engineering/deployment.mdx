@@ -1,8 +1,7 @@
 ---
-title: "Deployment"
+title: Deployment
 description: "How code goes from a merged PR to production, and how to roll back when something goes wrong."
 ---
-
 We use a trunk-based deployment model. Merging to `main` triggers a staging deploy automatically; production deploys are triggered manually after verification.
 
 ## Flow overview
@@ -30,7 +29,7 @@ Production deploys require at least one engineer who didn't author the change to
 
 ## Feature flags
 
-Most new features are deployed behind a feature flag to decouple deploy from release. Flags are managed in [Flag Tool Name]. Ask your tech lead about the flag naming convention and cleanup process.
+Most new features are deployed behind a feature flag to decouple deploy from release. Flags are managed in \[Flag Tool Name]. Ask your tech lead about the flag naming convention and cleanup process.
 
 ## Rollbacks
 
