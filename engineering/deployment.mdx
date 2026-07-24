@@ -10,7 +10,9 @@ We use a trunk-based deployment model. Merging to `main` triggers a staging depl
 feature branch → PR review → merge to main → auto-deploy to staging → manual promote to production
 ```
 
-## Deploying to staging
+## Deploying to staging Write two short sentences on how to roll back a bad production deploy
+
+​
 
 Every merge to `main` triggers a staging deployment automatically via CI. You don't need to do anything. Check the `#deploys` Slack channel for status notifications.
 
@@ -107,6 +109,8 @@ If a deploy goes wrong, redeploy the previous release tag and re-run smoke tests
 ## Notes
 
 Keep the previous release tag handy so a rollback is one command away.
+
+​
 
 ​
 
