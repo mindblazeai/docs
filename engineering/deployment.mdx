@@ -95,3 +95,11 @@ Migrations run automatically as part of the deploy pipeline. Backward-incompatib
 ## Deploy freeze windows
 
 We freeze production deploys during major events or the last business day before a holiday. The `#deploys` channel will pin a message when a freeze is active.
+
+## Rollback
+
+If a deploy goes wrong, redeploy the previous release tag and re-run smoke tests.
+
+​
+
+​
