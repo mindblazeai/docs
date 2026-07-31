@@ -2,7 +2,6 @@
 title: "Postmortem process"
 description: "How to write a blameless postmortem, facilitate the review, and make sure action items land."
 ---
-
 Postmortems are required for all SEV-1 and SEV-2 incidents, and optional for recurring SEV-3 patterns. The goal is learning, not blame.
 
 ## Blameless means
@@ -11,12 +10,12 @@ Blameless means we focus on what failed in the system — processes, tooling, al
 
 ## Timeline
 
-| Timing | Action |
-|--------|--------|
-| Within 24 hours of resolution | Create the postmortem doc from the template |
-| Within 48 hours | Draft the timeline and contributing factors |
-| Within 5 business days | Hold the postmortem review meeting |
-| Within 2 weeks | Action items assigned and tracked in your issue tracker |
+| Timing                        | Action                                                  |
+| ----------------------------- | ------------------------------------------------------- |
+| Within 24 hours of resolution | Create the postmortem doc from the template             |
+| Within 48 hours               | Draft the timeline and contributing factors             |
+| Within 5 business days        | Hold the postmortem review meeting                      |
+| Within 2 weeks                | Action items assigned and tracked in your issue tracker |
 
 ## Postmortem template
 
@@ -35,6 +34,7 @@ Create a new doc in your wiki using the Postmortem template. Fill in:
 Keep it to 30–45 minutes. The incident owner facilitates. Everyone who was involved should attend; others are welcome.
 
 Agenda:
+
 1. Walk through the timeline (10 min)
 2. Discuss root cause and contributing factors (10 min)
 3. Review and assign action items (15 min)
@@ -44,8 +44,9 @@ Don't re-hash decisions made during the incident. Focus on what to do differentl
 ## Action items
 
 Action items without owners don't get done. Every item needs:
-- A clear description of what "done" looks like
-- A single owner (not a team)
-- A due date
+
+* A clear description of what "done" looks like
+* A single owner (not a team)
+* A due date
 
 Track them in your issue tracker. The engineering manager reviews open postmortem action items in the weekly team meeting.
